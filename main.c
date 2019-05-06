@@ -11,6 +11,9 @@ struct cell{
 };
 /* Création d'un nouveau type Cellule à partir de struct cell */
 typedef struct cell Cellule;
+//comentaire1
+//comentaire2
+//comentaire3
 
 /*****************Fonctions de la liste chainée*****************/
 
